@@ -9,8 +9,6 @@ Python from bootcamp for MS | NCI
 - [Installation](#installation)
 - [Usage](#usage)
 - [Setting Up Jupyter in VSCode](#setting-up-jupyter-in-vscode)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
